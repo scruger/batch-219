@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="26d9f3fd-d45f-4fa3-9049-fa999f233b6d" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Sd7dtZ5VDnNNiaFNuJ2T3VvWI9" />
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Practise04">
+    <configuration name="Practise01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xsis.day1.Practise01" />
+      <module name="Batch-219" />
+      <option name="PROGRAM_PARAMETERS" value="Hello Batch 219" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xsis.day1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Practise02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xsis.day1.Practise02" />
+      <module name="Batch-219" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xsis.day1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Practise03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xsis.day1.Practise03" />
+      <module name="Batch-219" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xsis.day1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Practise04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xsis.day1.Practise04" />
+      <module name="Batch-219" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xsis.day1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Practise01" />
+      <item itemvalue="Application.Practise02" />
+      <item itemvalue="Application.Practise03" />
+      <item itemvalue="Application.Practise04" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Practise04" />
+        <item itemvalue="Application.Practise03" />
+        <item itemvalue="Application.Practise02" />
+        <item itemvalue="Application.Practise01" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="26d9f3fd-d45f-4fa3-9049-fa999f233b6d" name="Default Changelist" comment="" />
+      <created>1571881709626</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571881709626</updated>
+    </task>
+    <servers />
+  </component>
+</project>
