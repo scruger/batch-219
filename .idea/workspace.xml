@@ -2,7 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="26d9f3fd-d45f-4fa3-9049-fa999f233b6d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/xsis/day1/Practise06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xsis/day1/Practise07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xsis/day1/Practise08.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xsis/day1/Practise09.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xsis/day1/Practise10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xsis/day1/quiz/Quiz1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xsis/day1/quiz/Quiz2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xsis/day1/quiz/Quiz3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xsis/day1/quiz/Quiz4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xsis/day1/quiz/Quiz5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xsis/day1/quiz/Quiz6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xsis/day1/quiz/Quiz7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xsis/day1/quiz/Quiz8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xsis/day1/quiz/Quiz9.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xsis/day1/Practise05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xsis/day1/Practise05.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,9 +36,16 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1Sd7dtZ5VDnNNiaFNuJ2T3VvWI9" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.xsis.day1" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -37,23 +59,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Practise04">
-    <configuration name="Practise01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xsis.day1.Practise01" />
-      <module name="Batch-219" />
-      <option name="PROGRAM_PARAMETERS" value="Hello Batch 219" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.xsis.day1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Practise02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xsis.day1.Practise02" />
+  <component name="RunManager" selected="Application.Practise09">
+    <configuration name="Practise09" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xsis.day1.Practise09" />
       <module name="Batch-219" />
       <extension name="coverage">
         <pattern>
@@ -65,8 +73,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Practise03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xsis.day1.Practise03" />
+    <configuration name="Practise10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xsis.day1.Practise10" />
       <module name="Batch-219" />
       <extension name="coverage">
         <pattern>
@@ -78,12 +86,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Practise04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xsis.day1.Practise04" />
+    <configuration name="Quiz4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xsis.day1.quiz.Quiz4" />
       <module name="Batch-219" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xsis.day1.*" />
+          <option name="PATTERN" value="com.xsis.day1.quiz.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Quiz8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xsis.day1.quiz.Quiz8" />
+      <module name="Batch-219" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xsis.day1.quiz.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Quiz9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xsis.day1.quiz.Quiz9" />
+      <module name="Batch-219" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xsis.day1.quiz.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,17 +126,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Practise01" />
-      <item itemvalue="Application.Practise02" />
-      <item itemvalue="Application.Practise03" />
-      <item itemvalue="Application.Practise04" />
+      <item itemvalue="Application.Quiz8" />
+      <item itemvalue="Application.Quiz9" />
+      <item itemvalue="Application.Quiz4" />
+      <item itemvalue="Application.Practise10" />
+      <item itemvalue="Application.Practise09" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Practise04" />
-        <item itemvalue="Application.Practise03" />
-        <item itemvalue="Application.Practise02" />
-        <item itemvalue="Application.Practise01" />
+        <item itemvalue="Application.Practise09" />
+        <item itemvalue="Application.Practise10" />
+        <item itemvalue="Application.Quiz4" />
+        <item itemvalue="Application.Quiz9" />
+        <item itemvalue="Application.Quiz8" />
       </list>
     </recent_temporary>
   </component>

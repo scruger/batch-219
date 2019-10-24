@@ -12,7 +12,7 @@ public class Practise05 {
         System.out.print("Total Jarak ditempuh : ");
         totalJarakTempuh = scan.nextDouble();
         System.out.print("Total Bensin yang dipakai : ");
-        totalLiter = scan.nextDouble();
+        totalLiter  = scan.nextDouble();
 
         //calculate satu liter per kilo nya
         litterPerKilo = totalJarakTempuh / totalLiter;
