@@ -5,6 +5,8 @@ import java.util.Scanner;
 public class Practise05 {
 
     public static void main(String[] args) {
+
+
         Scanner scan = new Scanner(System.in);
         double litterPerKilo = 0, totalJarakTempuh = 0, totalLiter = 0;
         System.out.print("Total Jarak ditempuh : ");
