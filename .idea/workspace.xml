@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="26d9f3fd-d45f-4fa3-9049-fa999f233b6d" name="Default Changelist" comment="" />
+    <list default="true" id="26d9f3fd-d45f-4fa3-9049-fa999f233b6d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/xsis/day2/conditions/If01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xsis/day2/conditions/If02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xsis/day2/math/Math01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xsis/day2/math/Math02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xsis/day2/quiz2/Quiz01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xsis/day2/quiz2/Quiz02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xsis/day2/quiz2/Quiz03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xsis/day2/quiz2/Quiz04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xsis/day2/quiz2/Quiz05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xsis/day2/quiz2/Quiz06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xsis/day2/quiz2/Quiz07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xsis/day2/strings/String01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xsis/day2/strings/String02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xsis/day2/strings/String03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xsis/day2/strings/String04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xsis/day2/strings/String05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xsis/day2/strings/String06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xsis/day2/strings/String07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xsis/day2/strings/String08.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,13 +63,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Pr2">
-    <configuration name="Pr2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xsis.day1.pr.Pr2" />
+  <component name="RunManager" selected="Application.Quiz03">
+    <configuration name="If01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xsis.day2.conditions.If01" />
       <module name="Batch-219" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xsis.day1.pr.*" />
+          <option name="PATTERN" value="com.xsis.day2.conditions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -56,12 +77,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Pr3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xsis.day1.pr.Pr3" />
+    <configuration name="Quiz03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xsis.day2.quiz2.Quiz03" />
       <module name="Batch-219" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xsis.day1.pr.*" />
+          <option name="PATTERN" value="com.xsis.day2.quiz2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -69,12 +90,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Pr5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xsis.day1.pr.Pr5" />
+    <configuration name="String06" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xsis.day2.strings.String06" />
       <module name="Batch-219" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xsis.day1.pr.*" />
+          <option name="PATTERN" value="com.xsis.day2.strings.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,12 +103,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Pr6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xsis.day1.pr.Pr6" />
+    <configuration name="String07" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xsis.day2.strings.String07" />
       <module name="Batch-219" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xsis.day1.pr.*" />
+          <option name="PATTERN" value="com.xsis.day2.strings.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,12 +116,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Pr7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xsis.day1.pr.Pr7" />
+    <configuration name="String08" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xsis.day2.strings.String08" />
       <module name="Batch-219" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xsis.day1.pr.*" />
+          <option name="PATTERN" value="com.xsis.day2.strings.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,19 +130,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Pr2" />
-      <item itemvalue="Application.Pr3" />
-      <item itemvalue="Application.Pr5" />
-      <item itemvalue="Application.Pr6" />
-      <item itemvalue="Application.Pr7" />
+      <item itemvalue="Application.String06" />
+      <item itemvalue="Application.String07" />
+      <item itemvalue="Application.String08" />
+      <item itemvalue="Application.If01" />
+      <item itemvalue="Application.Quiz03" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Pr2" />
-        <item itemvalue="Application.Pr7" />
-        <item itemvalue="Application.Pr6" />
-        <item itemvalue="Application.Pr5" />
-        <item itemvalue="Application.Pr3" />
+        <item itemvalue="Application.Quiz03" />
+        <item itemvalue="Application.If01" />
+        <item itemvalue="Application.String08" />
+        <item itemvalue="Application.String07" />
+        <item itemvalue="Application.String06" />
       </list>
     </recent_temporary>
   </component>
@@ -143,7 +164,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
