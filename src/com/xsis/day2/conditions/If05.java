@@ -12,7 +12,7 @@ public class If05 {
 
         // gunakan case
 
-        Switch(day){
+        switch(day){
             case 1 :
                 System.out.println("Sunday");
                 break;
