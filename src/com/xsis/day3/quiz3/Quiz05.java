@@ -6,7 +6,6 @@ public class Quiz05 {
 
 
     public static void main(String[] args) {
-        Scanner in = new Scanner(System.in);
         int year = 1, population;
         double expand;
         population = 30000;

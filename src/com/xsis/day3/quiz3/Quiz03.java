@@ -10,7 +10,7 @@ public class Quiz03 {
         while(i > 0){
             System.out.print("Enter Value : ");
             input = in.nextInt();
-            if (input / 100 > 0){
+            if ((input / 100 > 0) && (input / 100 < 10)){
                 sum += input;
             }
             i--;

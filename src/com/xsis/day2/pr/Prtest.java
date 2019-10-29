@@ -1,5 +1,7 @@
 package com.xsis.day2.pr;
 
+import com.sun.xml.internal.ws.api.model.wsdl.WSDLOutput;
+
 import java.util.Scanner;
 
 public class Prtest {
@@ -40,6 +42,7 @@ public class Prtest {
         }
         return word;
     }
+
 
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
