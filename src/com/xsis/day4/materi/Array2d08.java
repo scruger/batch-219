@@ -16,7 +16,7 @@ public class Array2d08 {
 
         for (int i = 0; i < arr.length; i++) {
             for (int j = 0; j < arr[0].length; j++) {
-                if (){
+                if (((arr[0].length -1) /2 > j)){
                     arr[i][j] = -1;
                 }else if ( ((arr[0].length -1) /2 > j)){
                     arr[i][j] = 10;

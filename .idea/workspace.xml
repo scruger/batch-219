@@ -2,29 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="26d9f3fd-d45f-4fa3-9049-fa999f233b6d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/xsis/day4/materi/Array01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xsis/day4/materi/Array02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xsis/day4/materi/Array2d01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xsis/day4/materi/Array2d02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xsis/day4/materi/Array2d03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xsis/day4/materi/Array2d04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xsis/day4/materi/Array2d05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xsis/day4/materi/Array2d06.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xsis/day4/materi/Array2d07.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xsis/day4/materi/Array2d08.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xsis/day4/pr/Pr01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xsis/day4/quiz4/Quiz01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xsis/day4/quiz4/Quiz02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xsis/day4/quiz4/Quiz03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xsis/day4/quiz4/Quiz04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xsis/day4/quiz4/Quiz05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xsis/day4/quiz4/Quiz06.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xsis/day4/quiz4/Quiz07.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xsis/day4/quiz4/Quiz08.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xsis/day4/quiz4/Quiz09.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xsis/day4/quiz4/Quiz10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xsis/day4/quiz4/QuizCoba1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xsis/day4/materi/CobaTes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xsis/day4/pr/Pr02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xsis/day4/pr/Pr03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xsis/day4/pr/Pr04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xsis/day4/pr/Pr05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xsis/day4/pr/Pr06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xsis/day4/pr/prdini01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xsis/day4/pr/prdini02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xsis/day4/pr/prdini03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xsis/day4/pr/prdini04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xsis/day4/pr/prdini05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xsis/day4/pr/prdini06.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xsis/day4/materi/Array2d08.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xsis/day4/materi/Array2d08.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xsis/day4/pr/Pr01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xsis/day4/pr/Pr01.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -67,9 +59,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Array2d07">
-    <configuration name="Array2d03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xsis.day4.materi.Array2d03" />
+  <component name="RunManager" selected="Application.Pr05">
+    <configuration name="CobaTes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xsis.day4.materi.CobaTes" />
       <module name="Batch-219" />
       <extension name="coverage">
         <pattern>
@@ -81,12 +73,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Array2d04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xsis.day4.materi.Array2d04" />
+    <configuration name="Pr05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xsis.day4.pr.Pr05" />
       <module name="Batch-219" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xsis.day4.materi.*" />
+          <option name="PATTERN" value="com.xsis.day4.pr.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,12 +86,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Array2d05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xsis.day4.materi.Array2d05" />
+    <configuration name="Pr06" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xsis.day4.pr.Pr06" />
       <module name="Batch-219" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xsis.day4.materi.*" />
+          <option name="PATTERN" value="com.xsis.day4.pr.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,12 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Array2d06" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xsis.day4.materi.Array2d06" />
+    <configuration name="prdini05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xsis.day4.pr.prdini05" />
       <module name="Batch-219" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xsis.day4.materi.*" />
+          <option name="PATTERN" value="com.xsis.day4.pr.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,12 +112,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Array2d07" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xsis.day4.materi.Array2d07" />
+    <configuration name="prdini06" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xsis.day4.pr.prdini06" />
       <module name="Batch-219" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xsis.day4.materi.*" />
+          <option name="PATTERN" value="com.xsis.day4.pr.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,19 +126,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Array2d03" />
-      <item itemvalue="Application.Array2d04" />
-      <item itemvalue="Application.Array2d05" />
-      <item itemvalue="Application.Array2d06" />
-      <item itemvalue="Application.Array2d07" />
+      <item itemvalue="Application.prdini05" />
+      <item itemvalue="Application.prdini06" />
+      <item itemvalue="Application.Pr06" />
+      <item itemvalue="Application.CobaTes" />
+      <item itemvalue="Application.Pr05" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Array2d07" />
-        <item itemvalue="Application.Array2d06" />
-        <item itemvalue="Application.Array2d05" />
-        <item itemvalue="Application.Array2d04" />
-        <item itemvalue="Application.Array2d03" />
+        <item itemvalue="Application.Pr05" />
+        <item itemvalue="Application.Pr06" />
+        <item itemvalue="Application.CobaTes" />
+        <item itemvalue="Application.prdini06" />
+        <item itemvalue="Application.prdini05" />
       </list>
     </recent_temporary>
   </component>
@@ -175,5 +167,21 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/xsis/day4/pr/prdini06.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/xsis/day4/pr/Pr06.java</url>
+          <line>54</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
