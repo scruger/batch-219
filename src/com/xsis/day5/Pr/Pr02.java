@@ -22,16 +22,16 @@ public class Pr02 {
         temp2 = (int)((Math.random()) * 3);
         System.out.print("Computer's Choice : " + pimpah[temp2]);
         //System.out.println("\ntemp2 : " + temp2);
-        //System.out.println(temp1);
+
         for (int i = 0; i < pimpah.length; i++) {
             for (int j = 0; j < pimpah.length; j++) {
                 if (i == temp1 && j == temp2) {
                     if (i == j ) {
-                        System.out.println("\n You Draw" + " ");
+                        System.out.println("You Draw" + " ");
                     } else if ((i == 0 && j == 1) || (i == 1 && j == 2) || (i == 2 && j == 0)) {
-                        System.out.println("\nYou Lose" + " ");
+                        System.out.println("You Lose" + " ");
                     } else {
-                        System.out.println("\nYou   Win" + " ");
+                        System.out.println("You Win" + " ");
                     }
                 }
             }
