@@ -2,11 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="26d9f3fd-d45f-4fa3-9049-fa999f233b6d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/xsis/day6/materi/inheritance/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xsis/day6/materi/inheritance/EmployeeInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xsis/day6/materi/inheritance/EmpoAbstract.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xsis/day6/materi/inheritance/EmpolyeeDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xsis/day6/materi/inheritance/Manager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xsis/day6/materi/inheritance/Staff.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xsis/day6/pr/Pr01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xsis/day6/pr/Pr04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xsis/day6/pr/Pr05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xsis/day6/pr/Pr06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xsis/day6/pr/Pr07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xsis/day6/pr/Pr08.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xsis/day6/pr/Pr09.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Batch-219/com/xsis/day5/Pr/Pr02.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Batch-219/com/xsis/day5/Pr/Pr02.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Batch-219/com/xsis/day5/Pr/Pr05.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Batch-219/com/xsis/day5/Pr/Pr05.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/xsis/day5/Pr/Pr02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xsis/day5/Pr/Pr02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/xsis/day5/Pr/Pr05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xsis/day5/Pr/Pr05.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,6 +26,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
+        <option value="Kotlin File" />
         <option value="Class" />
       </list>
     </option>
@@ -49,20 +60,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Pr02">
-    <configuration name="Pr02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xsis.day5.Pr.Pr02" />
-      <module name="Batch-219" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.xsis.day5.Pr.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Pr03">
     <configuration name="Pr03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.xsis.day5.Pr.Pr03" />
       <module name="Batch-219" />
@@ -76,25 +74,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Pr03Coba" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xsis.day5.Pr.Pr03Coba" />
-      <module name="Batch-219" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.xsis.day5.Pr.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Pr04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xsis.day5.Pr.Pr04" />
+      <option name="MAIN_CLASS_NAME" value="com.xsis.day6.pr.Pr04" />
       <module name="Batch-219" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xsis.day5.Pr.*" />
+          <option name="PATTERN" value="com.xsis.day6.pr.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,12 +87,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Pr05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xsis.day5.Pr.Pr05" />
+    <configuration name="Pr06" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xsis.day6.pr.Pr06" />
       <module name="Batch-219" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xsis.day5.Pr.*" />
+          <option name="PATTERN" value="com.xsis.day6.pr.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Pr07" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xsis.day6.pr.Pr07" />
+      <module name="Batch-219" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xsis.day6.pr.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Pr08" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xsis.day6.pr.Pr08" />
+      <module name="Batch-219" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xsis.day6.pr.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,19 +127,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Pr02" />
-      <item itemvalue="Application.Pr03" />
-      <item itemvalue="Application.Pr03Coba" />
       <item itemvalue="Application.Pr04" />
-      <item itemvalue="Application.Pr05" />
+      <item itemvalue="Application.Pr08" />
+      <item itemvalue="Application.Pr07" />
+      <item itemvalue="Application.Pr06" />
+      <item itemvalue="Application.Pr03" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Pr02" />
-        <item itemvalue="Application.Pr05" />
         <item itemvalue="Application.Pr03" />
         <item itemvalue="Application.Pr04" />
-        <item itemvalue="Application.Pr03Coba" />
+        <item itemvalue="Application.Pr06" />
+        <item itemvalue="Application.Pr07" />
+        <item itemvalue="Application.Pr08" />
       </list>
     </recent_temporary>
   </component>
