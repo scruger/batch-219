@@ -17,9 +17,9 @@ public class Pr08 {
                     count++;
                 }
             }
-            if(i == 1){
-                System.out.print(i +", ");
-            }
+          /*      if(i == 1){
+                    System.out.print(i +", ");
+                }*/
             if(count == 2){
                 System.out.print(i + ", ");
             }

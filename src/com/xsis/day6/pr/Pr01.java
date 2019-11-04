@@ -1,5 +1,3 @@
-package com.xsis.day6.pr;
-
 import java.util.Scanner;
 
 public class Pr01 {
@@ -10,15 +8,15 @@ public class Pr01 {
         System.out.print("input : ");
         input = in.nextLine();
 
-        for (int i = input.length()-1; i >= 0 ; i--) {
+        for (int i = input.length() - 1; i >= 0; i--) {
             reverse += input.charAt(i);
         }
 
-        if (input.equals(reverse)){
+        if (input.equals(reverse)) {
             System.out.println("Kalimat " + input + " adalah palindrome");
-        }else{
+        } else {
             System.out.println("Kalimat " + input + " tidak merupakan palindrome");
         }
-
     }
 }
+

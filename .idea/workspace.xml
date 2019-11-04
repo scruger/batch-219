@@ -2,20 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="26d9f3fd-d45f-4fa3-9049-fa999f233b6d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/xsis/day6/materi/inheritance/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xsis/day6/materi/inheritance/EmployeeInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xsis/day6/materi/inheritance/EmpoAbstract.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xsis/day6/materi/inheritance/EmpolyeeDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xsis/day6/materi/inheritance/Manager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xsis/day6/materi/inheritance/Staff.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xsis/day6/pr/Pr01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xsis/day6/pr/Pr04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xsis/day6/pr/Pr05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xsis/day6/pr/Pr06.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xsis/day6/pr/Pr07.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xsis/day6/pr/Pr08.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xsis/day6/pr/Pr09.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xsis/day6/pr/Fibonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xsis/latihan/Lat01.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Batch-219/com/xsis/day6/pr/Pr01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xsis/day6/pr/Pr01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xsis/day6/pr/Pr01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xsis/day6/pr/Pr08.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xsis/day6/pr/Pr08.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -60,22 +52,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Pr03">
-    <configuration name="Pr03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xsis.day5.Pr.Pr03" />
-      <module name="Batch-219" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.xsis.day5.Pr.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Pr04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xsis.day6.pr.Pr04" />
+  <component name="RunManager" selected="Application.Pr08">
+    <configuration name="Fibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xsis.day6.pr.Fibonacci" />
       <module name="Batch-219" />
       <extension name="coverage">
         <pattern>
@@ -87,25 +66,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Pr06" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xsis.day6.pr.Pr06" />
+    <configuration name="Lat01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xsis.latihan.Lat01" />
       <module name="Batch-219" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xsis.day6.pr.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Pr07" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xsis.day6.pr.Pr07" />
-      <module name="Batch-219" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.xsis.day6.pr.*" />
+          <option name="PATTERN" value="com.xsis.latihan.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,20 +92,46 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Quiz02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xsis.day4.quiz4.Quiz02" />
+      <module name="Batch-219" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xsis.day4.quiz4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Quiz10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xsis.day4.quiz4.Quiz10" />
+      <module name="Batch-219" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xsis.day4.quiz4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.Pr04" />
+      <item itemvalue="Application.Lat01" />
+      <item itemvalue="Application.Quiz02" />
+      <item itemvalue="Application.Quiz10" />
       <item itemvalue="Application.Pr08" />
-      <item itemvalue="Application.Pr07" />
-      <item itemvalue="Application.Pr06" />
-      <item itemvalue="Application.Pr03" />
+      <item itemvalue="Application.Fibonacci" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Pr03" />
-        <item itemvalue="Application.Pr04" />
-        <item itemvalue="Application.Pr06" />
-        <item itemvalue="Application.Pr07" />
         <item itemvalue="Application.Pr08" />
+        <item itemvalue="Application.Fibonacci" />
+        <item itemvalue="Application.Quiz10" />
+        <item itemvalue="Application.Quiz02" />
+        <item itemvalue="Application.Lat01" />
       </list>
     </recent_temporary>
   </component>
