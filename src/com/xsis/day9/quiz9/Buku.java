@@ -82,8 +82,6 @@ public class Buku {
                 cashBack = (int)cashBack(biaya);
                 System.out.println("Cash Back \t\t: " + cashBack);
             }
-
-
         }else{
             System.out.print("Jumlah Buku : ");
             jumlahBuku = in.nextInt();
@@ -117,7 +115,5 @@ public class Buku {
                 System.out.println("Cash Back \t\t: " + cashBack);
             }
         }
-
     }
-
 }

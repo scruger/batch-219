@@ -2,10 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="26d9f3fd-d45f-4fa3-9049-fa999f233b6d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/xsis/day10/kisikisi/Kisi01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xsis/day9/materi/javaException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xsis/day10/kisikisi/Kisi02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xsis/day10/kisikisi/Kisi06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xsis/day10/kisikisi/Kisi09.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xsis/day10/kisikisi/Kisi10.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Batch-219/com/xsis/day9/quiz9/Parkir.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Batch-219/com/xsis/day9/quiz9/Parkir.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Batch-219/com/xsis/day10/kisikisi/Kisi01.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Batch-219/com/xsis/day10/kisikisi/Kisi01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Batch-219/com/xsis/day9/quiz9/Buku.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Batch-219/com/xsis/day9/quiz9/Buku.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xsis/day10/kisikisi/Kisi01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xsis/day10/kisikisi/Kisi01.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/xsis/day9/quiz9/Buku.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xsis/day9/quiz9/Buku.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -54,13 +58,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.javaException">
-    <configuration name="Buku" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xsis.day9.quiz9.Buku" />
+  <component name="RunManager" selected="Application.Kisi09">
+    <configuration name="Kisi01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xsis.day10.kisikisi.Kisi01" />
       <module name="Batch-219" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xsis.day9.quiz9.*" />
+          <option name="PATTERN" value="com.xsis.day10.kisikisi.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -68,12 +72,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JavaClassicDate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xsis.day9.materi.JavaClassicDate" />
+    <configuration name="Kisi02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xsis.day10.kisikisi.Kisi02" />
       <module name="Batch-219" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xsis.day9.materi.*" />
+          <option name="PATTERN" value="com.xsis.day10.kisikisi.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -81,12 +85,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Parkir" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xsis.day9.quiz9.Parkir" />
+    <configuration name="Kisi06" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xsis.day10.kisikisi.Kisi06" />
       <module name="Batch-219" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xsis.day9.quiz9.*" />
+          <option name="PATTERN" value="com.xsis.day10.kisikisi.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,12 +98,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Parkir02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xsis.day9.quiz9.Parkir02" />
+    <configuration name="Kisi09" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xsis.day10.kisikisi.Kisi09" />
       <module name="Batch-219" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xsis.day9.quiz9.*" />
+          <option name="PATTERN" value="com.xsis.day10.kisikisi.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,12 +111,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="javaException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xsis.day9.materi.javaException" />
+    <configuration name="Kisi10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xsis.day10.kisikisi.Kisi10" />
       <module name="Batch-219" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xsis.day9.materi.*" />
+          <option name="PATTERN" value="com.xsis.day10.kisikisi.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,19 +125,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.JavaClassicDate" />
-      <item itemvalue="Application.Parkir" />
-      <item itemvalue="Application.Parkir02" />
-      <item itemvalue="Application.Buku" />
-      <item itemvalue="Application.javaException" />
+      <item itemvalue="Application.Kisi10" />
+      <item itemvalue="Application.Kisi01" />
+      <item itemvalue="Application.Kisi02" />
+      <item itemvalue="Application.Kisi06" />
+      <item itemvalue="Application.Kisi09" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.javaException" />
-        <item itemvalue="Application.Buku" />
-        <item itemvalue="Application.Parkir" />
-        <item itemvalue="Application.Parkir02" />
-        <item itemvalue="Application.JavaClassicDate" />
+        <item itemvalue="Application.Kisi09" />
+        <item itemvalue="Application.Kisi06" />
+        <item itemvalue="Application.Kisi01" />
+        <item itemvalue="Application.Kisi02" />
+        <item itemvalue="Application.Kisi10" />
       </list>
     </recent_temporary>
   </component>
