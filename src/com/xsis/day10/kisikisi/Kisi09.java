@@ -28,7 +28,7 @@ public class Kisi09 {
             }
 
             if ((kotakA > kotakB && pilihKotak.equals("A")) || (kotakA < kotakB && pilihKotak.equals("B"))){
-                System.out.println("------- YOU WIN -------");
+                System.out.println("\n------- YOU WIN -------");
                 System.out.println("Your Choice : " + pilihKotak);
                 System.out.println("Kotak A : " + kotakA);
                 System.out.println("Kotak B : " + kotakB);
@@ -36,13 +36,13 @@ public class Kisi09 {
                 deckPlayer += bet;
                 deckKomputer -= bet;
             } else if (kotakA == kotakB){
-                System.out.println("------- DRAW -------");
+                System.out.println("\n------- DRAW -------");
                 System.out.println("Your Choice : " + pilihKotak);
                 System.out.println("Kotak A : " + kotakA);
                 System.out.println("Kotak B : " + kotakB);
                 System.out.println("Try Again");
             } else {
-                System.out.println("------- YOU LOSE -------");
+                System.out.println("\n------- YOU LOSE -------");
                 System.out.println("Your Choice : " + pilihKotak);
                 System.out.println("Kotak A : " + kotakA);
                 System.out.println("Kotak B : " + kotakB);
@@ -61,13 +61,13 @@ public class Kisi09 {
             System.out.println("Deck Komputer saat ini : " + deckKomputer);
 
             if (deckPlayer <= 0){
-                System.out.println("Player Lose");
+                System.out.println("\n----- PLAYER LOSE -----");
             }else if (deckKomputer <= 0){
-                System.out.println("Komputer Lose");
+                System.out.println("\n----- COMPUTER LOSE -----");
             }
 
             if (deckPlayer > 0 && deckKomputer > 0){
-                System.out.print("Lanjut atau Menyerah ? Y/N ");
+                System.out.print("\nLanjut atau Menyerah ? Y/N ");
                 isLanjut = in.next().toUpperCase();
                 if (!isLanjut.equals("Y")){
                     System.out.println("\nYou Are Surrender");

@@ -2,15 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="26d9f3fd-d45f-4fa3-9049-fa999f233b6d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/xsis/day10/kisikisi/Kisi02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xsis/day10/kisikisi/Kisi06.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xsis/day10/kisikisi/Kisi09.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xsis/day10/kisikisi/Kisi10.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Batch-219/com/xsis/day10/kisikisi/Kisi01.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Batch-219/com/xsis/day10/kisikisi/Kisi01.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Batch-219/com/xsis/day9/quiz9/Buku.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Batch-219/com/xsis/day9/quiz9/Buku.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/xsis/day10/kisikisi/Kisi01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xsis/day10/kisikisi/Kisi01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/xsis/day9/quiz9/Buku.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xsis/day9/quiz9/Buku.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Batch-219/com/xsis/day10/kisikisi/Kisi09.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Batch-219/com/xsis/day10/kisikisi/Kisi09.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xsis/day10/kisikisi/Kisi09.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xsis/day10/kisikisi/Kisi09.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -58,7 +51,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Kisi09">
+  <component name="RunManager" selected="Application.Kisi10">
     <configuration name="Kisi01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.xsis.day10.kisikisi.Kisi01" />
       <module name="Batch-219" />
@@ -133,11 +126,11 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Kisi10" />
         <item itemvalue="Application.Kisi09" />
         <item itemvalue="Application.Kisi06" />
         <item itemvalue="Application.Kisi01" />
         <item itemvalue="Application.Kisi02" />
-        <item itemvalue="Application.Kisi10" />
       </list>
     </recent_temporary>
   </component>
